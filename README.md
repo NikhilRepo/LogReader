@@ -1,5 +1,6 @@
 # LogReader
 -Please note that this app only runs for logs with 3 attributes. It does not run for Application Server Logs with 5 Attributes.
+
 -Steps to follow :
    1. Please edit runLogger.bat file to contain the expected path to Log and the logfile name.
    2. Then you could double click it and it will run maven commands and also the the application.
